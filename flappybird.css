@@ -1,0 +1,12 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/609/852/889/flappy-bird-game-popular-wallpaper-preview.jpg");
+    background-size: cover;
+    backdrop-filter: blur;
+}
+
+#board {
+    border: 4px solid black;
+    background-image: url(./flappybirdbg.png);
+}
